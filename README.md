@@ -3,9 +3,9 @@
 ## What is binary matrix?
 Binary matrix is a matrix with all the entries restriced in $$$\mathbb{F}_2$$$ which is the finite field with only two elements 0 and 1. Thus, each entry of the matrix can only take the value 0 and 1.
 
-The arithmetic operations on finite field $$$\mathbb{F}_2$$$ follow the rules:
-- $$$0 + 0 = 0, 0 + 1 = 1, 1 + 0 = 1, 1 + 1 = 0$$$
-- $$$0 \times 0 = 0, 0 \times 1 = 1, 1\times 0 = 0, 1\times 1 = 1$$$
+The arithmetic operations on finite field $$$ \mathbb{F}_2 $$$ follow the rules:
+- $$$ 0 + 0 = 0, 0 + 1 = 1, 1 + 0 = 1, 1 + 1 = 0 $$$
+- $$$ 0 \times 0 = 0, 0 \times 1 = 1, 1\times 0 = 0, 1\times 1 = 1 $$$
 
 ## What is this modular about?
 This project contains a modular [binmatrix.py](https://github.com/xiangzejun/binary_matrix/blob/master/binmatrix.py). This modular computes some properties of binary matrices. To be Specific:
