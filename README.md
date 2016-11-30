@@ -16,7 +16,7 @@ This project contains a modular [binmatrix.py](https://github.com/xiangzejun/bin
 
 All the arithmetic operations are on the finite field $$$\mathbb{F}_2$$$.
 [test.py](https://github.com/xiangzejun/binary_matrix/blob/master/test.py) tests the modular by a given binary matrix.
-## How to used the modular?
+## How to use the modular?
 This module defines a python class `class BinMatrix:`. If `m` is a binary matrix, you can instantiate a `BinMatrix` object by `matrix = BinMatrix(m)`. Then you can compute:
 
 1. `matrix.rank()` returns the Rank of the binary matrix.
