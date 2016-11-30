@@ -1,8 +1,7 @@
 # Binary Matrix Computation
-[toc]
 
 ## What is binary matrix?
-Binary matrix is a matrix with all the entries restriced in $$$F_2$$$ which is the finite field with only two elements 0 and 1. Thus, each entry of the matrix can only take the value 0 and 1.
+Binary matrix is a matrix with all the entries restriced in $$$\mathbb{F}_2$$$ which is the finite field with only two elements 0 and 1. Thus, each entry of the matrix can only take the value 0 and 1.
 
 The arithmetic operations on finite field $$$\mathbb{F}_2$$$ follow the rules:
 - $$$0 + 0 = 0, 0 + 1 = 1, 1 + 0 = 1, 1 + 1 = 0$$$
